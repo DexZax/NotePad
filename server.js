@@ -20,7 +20,7 @@ function createNewNote(body, noteArry) {
   noteArry.noteArry.push(note);
   fs.writeFileSync(
     path.join(__dirname, "./db/db.json"),
-    JSON.stringify({ notes: noteArry }, null, 2)
+    JSON.stringify({ noteArry }, null, 2)
   );
   return note;
 }
