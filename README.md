@@ -1,5 +1,6 @@
 # NotePad
- 
+ ![Desktop Screenshot 2022 07 20 - 16 04 19 03](https://user-images.githubusercontent.com/102763270/180071681-2de51b53-5931-468a-880c-45e251e50af1.png)
+
   # Table of contents
   1. [Description](#description)
   2. [Installation](#installation)
